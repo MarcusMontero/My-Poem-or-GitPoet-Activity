@@ -1,4 +1,3 @@
 This is my first GitHub file.
 I am learning how to use Git and GitHub.
-I just edited this file for my second commit.
-Git lets me track all the changes I make.
+This activity is for Git and GitHub for Poets.
